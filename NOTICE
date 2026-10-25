@@ -1,0 +1,3 @@
+This repository contains a Core ML conversion of google/siglip-base-patch16-224.
+Original model: Copyright Google LLC, licensed under the Apache License, Version 2.0.
+Changes: converted from PyTorch to Core ML (float16) and packaged with its tokenizer vocabulary.
